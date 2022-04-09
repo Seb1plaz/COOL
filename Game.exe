@@ -2,3 +2,5 @@ script.Parent.?/run *
 
 
 print (loading)
+wait(5)
+script.Parent.main/run *
