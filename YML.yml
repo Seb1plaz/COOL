@@ -1,0 +1,2 @@
+- name: CSharp Project To Unity3d Package
+  uses: PereViader/CSharpProjectToUnity3dPackage@v1.0.2
